@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "VotingApp",
-    "slug": "VotingApp",
+    "name": "IdeaHub",
+    "slug": "Ideahub",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
@@ -13,17 +13,31 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "n"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.srmnikku.ideahub"
     },
     "web": {
+      "bundler": "metro",
       "favicon": "./assets/favicon.png"
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "enabled": true,
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/3974045e-fac9-4e42-96a2-9b4e0bdc47cd"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3974045e-fac9-4e42-96a2-9b4e0bdc47cd"
+      }
     }
   }
 }
