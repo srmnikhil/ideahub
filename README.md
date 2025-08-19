@@ -13,6 +13,33 @@ IdeaHub empowers users to:
 - Experience automatic light and dark themes that follow the device’s system preferences.
 - Receive real-time updates through OTA (over-the-air) updates.
 
+## 📸 App Screenshots
+
+### 📝 Idea Listing
+<p align="center">
+  <img src="screenshots/light_idea_listing.jpeg" width="200"/>
+  <img src="screenshots/dark_idea_listing.jpeg" width="200"/>
+</p>
+
+### ➕ Idea Submission
+<p align="center">
+  <img src="screenshots/light_idea_submission.jpeg" width="200"/>
+  <img src="screenshots/dark_idea_submission.jpeg" width="200"/>
+</p>
+
+### ⭐ Leaderboard (Rating)
+<p align="center">
+  <img src="screenshots/light_leaderboard_rating.jpeg" width="200"/>
+  <img src="screenshots/dark_leaderboard_rating.jpeg" width="200"/>
+</p>
+
+### 📊 Leaderboard (Votes)
+<p align="center">
+  <img src="screenshots/light_leaderboard_votes.jpeg" width="200"/>
+  <img src="screenshots/dark_leaderboard_votes.jpeg" width="200"/>
+</p>
+
+
 ## Tech Stack Used
 
 - **React Native** (Expo SDK 53)
