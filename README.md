@@ -84,7 +84,7 @@ Follow the prompts to configure credentials if needed.
 Once built, download the APK from the EAS build link.
 
 **Installing APK on Android Device**
-- Download the APK file to your Android device.
+- [Download](https://ideahubapp.vercel.app/IdeaHub.apk) the APK file to your Android device.
 
 - Enable **Install from Unknown Sources** in your device settings.
 
