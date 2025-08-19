@@ -36,3 +36,81 @@ IdeaHub empowers users to:
 - Animated loaders during data fetching.
 - Share ideas using the device's native share options.
 - Smooth tab navigation with icons.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14+ recommended)
+- Expo CLI installed globally
+
+```bash
+npm install -g expo-cli
+```
+## **Installation**
+
+1.  Clone the repository:
+
+```bash
+git clone https://github.com/srmnikhil/ideahub.git
+cd ideahub
+```
+
+2.  Install dependencies:
+
+```bash
+npm install
+# or
+yarn install
+```
+
+3.  Start the development server:
+
+```bash
+expo start
+# or
+npx expo start
+```
+
+4.  Open the Expo Go app on your phone and scan the QR code displayed to run the app locally.
+
+## **Build and install APK**
+**Build APK with EAS**
+```bash
+eas build --platform android
+```
+Follow the prompts to configure credentials if needed.
+
+Once built, download the APK from the EAS build link.
+
+**Installing APK on Android Device**
+- Download the APK file to your Android device.
+
+- Enable **Install from Unknown Sources** in your device settings.
+
+- Open the APK file and install IdeaHub.
+
+## **OTA Updates**
+This app supports over-the-air (OTA) updates via Expo Updates. New updates can be published without needing a full rebuild.
+
+## **Folder Structure**
+```bash
+/assets       # App images, icons, splash screens
+/components   # Reusable UI components
+/screens      # Main screens (Home, Submit, Leaderboard)
+/utils        # Utility/helper functions
+/App.js       # App entry point
+```
+
+## **Contributing**
+Pull requests and suggestions are welcome!
+
+## **License**
+MIT License © 2025 Nikhil Sharma
+
+## **Contact**
+Email: srmnikhilswn@gmail.com
+
+GitHub: https://github.com/srmnikhil
+
+LinkedIn: https://linkedin.com/in/srmnikhil
