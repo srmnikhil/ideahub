@@ -32,7 +32,7 @@ export default function HomeScreen() {
   useEffect(() => {
     loadLikedItems();
     fetchIdeas();
-  }, []);
+  }, [ideas]);
 
   // Load from AsyncStorage on app start
   const loadLikedItems = async () => {
