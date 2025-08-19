@@ -15,30 +15,21 @@ IdeaHub empowers users to:
 
 ## 📸 App Screenshots
 
-### 📝 Idea Listing
+**Light Theme**
 <p align="center">
   <img src="screenshots/light_idea_listing.jpeg" width="200"/>
-  <img src="screenshots/dark_idea_listing.jpeg" width="200"/>
-</p>
-
-### ➕ Idea Submission
-<p align="center">
   <img src="screenshots/light_idea_submission.jpeg" width="200"/>
-  <img src="screenshots/dark_idea_submission.jpeg" width="200"/>
-</p>
-
-### ⭐ Leaderboard (Rating)
-<p align="center">
   <img src="screenshots/light_leaderboard_rating.jpeg" width="200"/>
-  <img src="screenshots/dark_leaderboard_rating.jpeg" width="200"/>
+  <img src="screenshots/light_leaderboard_votes.jpeg" width="200"/>
 </p>
 
-### 📊 Leaderboard (Votes)
+**Dark Theme**
 <p align="center">
-  <img src="screenshots/light_leaderboard_votes.jpeg" width="200"/>
+  <img src="screenshots/dark_idea_listing.jpeg" width="200"/>
+  <img src="screenshots/dark_idea_submission.jpeg" width="200"/>
+  <img src="screenshots/dark_leaderboard_rating.jpeg" width="200"/>
   <img src="screenshots/dark_leaderboard_votes.jpeg" width="200"/>
 </p>
-
 
 ## Tech Stack Used
 
